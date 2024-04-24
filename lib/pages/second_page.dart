@@ -28,6 +28,7 @@ class _SecondPageState extends State<SecondPage> {
               style: ButtonStyle(backgroundColor: MaterialStateProperty.all(Colors.red)),
               child: const Text('Adicionar item',style: TextStyle(color: Colors.white,fontSize: 20),),
             ),
+            Text(""),
              TextButton(
               style: ButtonStyle(backgroundColor: MaterialStateProperty.all(Colors.red)),
               child: const Text('Voltar para Home',style: TextStyle(color: Colors.white,fontSize: 20),),
